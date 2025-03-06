@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body{ background-color: grey;
+color: white;
+font: normal 1.5em Arial;
+}
+
+h1{
+    text-align: center;
+    margin-top: .4em;
+    letter-spacing: .1em;
+
+}
+
+span{
+    color: rgb(108, 30, 30);
+    text-transform: uppercase;
+}
+
+p{
+    margin-left: 1em;
+}
+.dom{
+    text-transform: uppercase;
+}
